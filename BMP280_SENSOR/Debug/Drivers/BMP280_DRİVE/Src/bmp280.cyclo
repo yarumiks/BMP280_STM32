@@ -1,0 +1,8 @@
+../Drivers/BMP280_DRİVE/Src/bmp280.c:33:9:BMP280_ReadRegister	1
+../Drivers/BMP280_DRİVE/Src/bmp280.c:39:6:BMP280_WriteRegister	1
+../Drivers/BMP280_DRİVE/Src/bmp280.c:42:6:BMP280_Calibration	1
+../Drivers/BMP280_DRİVE/Src/bmp280.c:61:6:bmp280_getTemprature	1
+../Drivers/BMP280_DRİVE/Src/bmp280.c:71:6:bmp280_getPressure	1
+../Drivers/BMP280_DRİVE/Src/bmp280.c:88:6:BMP280_RawDataRead	1
+../Drivers/BMP280_DRİVE/Src/bmp280.c:97:6:BMP280_Init	1
+../Drivers/BMP280_DRİVE/Src/bmp280.c:108:6:CalculationStart	5
