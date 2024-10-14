@@ -1,6 +1,6 @@
 # BMP280_STM32
  
-## What is bmp280 sensor
+## What is bmp280 sensor?
 The BMP280 is an absolute barometric pressure sensor, which is especially feasible for mobile applications. Its small dimensions and its low power consumption allow for the implementation in battery-powered devices such as mobile phones, GPS modules or watches. You can communicate with the library prepared with I2c communication in stm32 via any I2c method you want. I used the I2C1 path in this project
 
 
